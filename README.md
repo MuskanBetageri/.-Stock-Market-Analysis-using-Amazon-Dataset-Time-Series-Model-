@@ -1,1 +1,1 @@
-# .-Stock-Market-Analysis-using-Amazon-Dataset-Time-Series-Model-
+# .-STOCK-PRICE-PREDICTION-USING-TIME-SERIES-MODELS-
